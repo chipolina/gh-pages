@@ -1,5 +1,34 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "test_UI",
+      "children" : [ {
+        "name" : "TestRegistration",
+        "children" : [ {
+          "name" : "test_register_user[chromium]",
+          "uid" : "c3c2360f6bec9365",
+          "parentUid" : "94db0e4027deccd971e0572d20677450",
+          "status" : "passed",
+          "time" : {
+            "start" : 1708506107927,
+            "stop" : 1708506115554,
+            "duration" : 7627
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'chromium'" ]
+        } ],
+        "uid" : "94db0e4027deccd971e0572d20677450"
+      } ],
+      "uid" : "76a80c01784e92dceda0ef3c4a43c461"
+    } ],
+    "uid" : "e387fa4bb326b54ea8c19c2822aba374"
+  } ],
   "name" : "suites"
 }

@@ -1,1 +1,11 @@
-[ ]
+[ {
+  "uid" : "c3c2360f6bec9365",
+  "name" : "test_register_user[chromium]",
+  "time" : {
+    "start" : 1708506107927,
+    "stop" : 1708506115554,
+    "duration" : 7627
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,5 +1,30 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "fv-az560-935",
+    "children" : [ {
+      "name" : "4190-MainThread",
+      "children" : [ {
+        "name" : "test_register_user[chromium]",
+        "uid" : "c3c2360f6bec9365",
+        "parentUid" : "65e0ea6ac0028d7fd9f97eac4eb6f116",
+        "status" : "passed",
+        "time" : {
+          "start" : 1708506107927,
+          "stop" : 1708506115554,
+          "duration" : 7627
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'chromium'" ]
+      } ],
+      "uid" : "65e0ea6ac0028d7fd9f97eac4eb6f116"
+    } ],
+    "uid" : "fc102b2c75ef6b81ecf0c2b5972ef394"
+  } ],
   "name" : "timeline"
 }
